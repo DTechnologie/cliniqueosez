@@ -1,0 +1,179 @@
+[
+  {
+    "url": "https://crowded-writers-503723.framer.app/%C3%A0-propos",
+    "score": 91,
+    "issues": [
+      {
+        "type": "warning",
+        "message": "Title too short (9 chars). Aim for 50-60 characters."
+      },
+      {
+        "type": "warning",
+        "message": "Meta description too long (247 chars). May be truncated."
+      },
+      {
+        "type": "info",
+        "message": "No canonical URL specified"
+      }
+    ],
+    "passed": [
+      "Single H1 heading present",
+      "All images have alt attributes",
+      "Open Graph meta tags present",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "ClearPath",
+      "description": "ClearPath is a modern website Framer template crafted for therapists, life coaches, and personal growth professionals. It’s ideal for creating calming, trustworthy websites with services, client stories, educational journals, and booking features.",
+      "canonical": null,
+      "ogImage": "https://framerusercontent.com/images/JYyHLJk6tynAA79CPkFLZdbStAU.png"
+    }
+  },
+  {
+    "url": "https://crowded-writers-503723.framer.app/privacy-policy",
+    "score": 91,
+    "issues": [
+      {
+        "type": "warning",
+        "message": "Title too short (9 chars). Aim for 50-60 characters."
+      },
+      {
+        "type": "warning",
+        "message": "Meta description too long (247 chars). May be truncated."
+      },
+      {
+        "type": "info",
+        "message": "No canonical URL specified"
+      }
+    ],
+    "passed": [
+      "Single H1 heading present",
+      "All images have alt attributes",
+      "Open Graph meta tags present",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "ClearPath",
+      "description": "ClearPath is a modern website Framer template crafted for therapists, life coaches, and personal growth professionals. It’s ideal for creating calming, trustworthy websites with services, client stories, educational journals, and booking features.",
+      "canonical": null,
+      "ogImage": "https://framerusercontent.com/images/JYyHLJk6tynAA79CPkFLZdbStAU.png"
+    }
+  },
+  {
+    "url": "https://crowded-writers-503723.framer.app/terms-of-use",
+    "score": 91,
+    "issues": [
+      {
+        "type": "warning",
+        "message": "Title too short (9 chars). Aim for 50-60 characters."
+      },
+      {
+        "type": "warning",
+        "message": "Meta description too long (247 chars). May be truncated."
+      },
+      {
+        "type": "info",
+        "message": "No canonical URL specified"
+      }
+    ],
+    "passed": [
+      "Single H1 heading present",
+      "All images have alt attributes",
+      "Open Graph meta tags present",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "ClearPath",
+      "description": "ClearPath is a modern website Framer template crafted for therapists, life coaches, and personal growth professionals. It’s ideal for creating calming, trustworthy websites with services, client stories, educational journals, and booking features.",
+      "canonical": null,
+      "ogImage": "https://framerusercontent.com/images/JYyHLJk6tynAA79CPkFLZdbStAU.png"
+    }
+  },
+  {
+    "url": "https://crowded-writers-503723.framer.app/",
+    "score": 93,
+    "issues": [
+      {
+        "type": "warning",
+        "message": "Title too short (9 chars). Aim for 50-60 characters."
+      },
+      {
+        "type": "warning",
+        "message": "Meta description too long (247 chars). May be truncated."
+      }
+    ],
+    "passed": [
+      "Single H1 heading present",
+      "All images have alt attributes",
+      "Canonical URL is set",
+      "Open Graph meta tags present",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "ClearPath",
+      "description": "ClearPath is a modern website Framer template crafted for therapists, life coaches, and personal growth professionals. It’s ideal for creating calming, trustworthy websites with services, client stories, educational journals, and booking features.",
+      "canonical": "https://crowded-writers-503723.framer.app/",
+      "ogImage": "https://framerusercontent.com/images/JYyHLJk6tynAA79CPkFLZdbStAU.png"
+    }
+  },
+  {
+    "url": "https://crowded-writers-503723.framer.app/404",
+    "score": 93,
+    "issues": [
+      {
+        "type": "warning",
+        "message": "Title too short (9 chars). Aim for 50-60 characters."
+      },
+      {
+        "type": "warning",
+        "message": "Meta description too long (247 chars). May be truncated."
+      }
+    ],
+    "passed": [
+      "Single H1 heading present",
+      "All images have alt attributes",
+      "Canonical URL is set",
+      "Open Graph meta tags present",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "ClearPath",
+      "description": "ClearPath is a modern website Framer template crafted for therapists, life coaches, and personal growth professionals. It’s ideal for creating calming, trustworthy websites with services, client stories, educational journals, and booking features.",
+      "canonical": "https://crowded-writers-503723.framer.app/404",
+      "ogImage": "https://framerusercontent.com/images/JYyHLJk6tynAA79CPkFLZdbStAU.png"
+    }
+  },
+  {
+    "url": "https://crowded-writers-503723.framer.app/services",
+    "score": 93,
+    "issues": [
+      {
+        "type": "warning",
+        "message": "Title too short (9 chars). Aim for 50-60 characters."
+      },
+      {
+        "type": "warning",
+        "message": "Meta description too long (247 chars). May be truncated."
+      }
+    ],
+    "passed": [
+      "Single H1 heading present",
+      "All images have alt attributes",
+      "Canonical URL is set",
+      "Open Graph meta tags present",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "ClearPath",
+      "description": "ClearPath is a modern website Framer template crafted for therapists, life coaches, and personal growth professionals. It’s ideal for creating calming, trustworthy websites with services, client stories, educational journals, and booking features.",
+      "canonical": "https://crowded-writers-503723.framer.app/services",
+      "ogImage": "https://framerusercontent.com/images/JYyHLJk6tynAA79CPkFLZdbStAU.png"
+    }
+  }
+]
